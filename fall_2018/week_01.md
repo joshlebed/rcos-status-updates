@@ -1,22 +1,17 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
-
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+> Last Wednesday I met with my team and grad student Andrew Yale to learn about his work on Synthetic Data Vault and synthetic data generation in general. I then did some further research on neural networks and machine learning.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
+> This week, I will fork my own branch of Andrew's repo and start messing around with it to gain a better understanding of the tools he is using.
 
-> Examples: New Bugs to be fixed, Design choices
+> I will also work with my Dan to figure out what external libraries we should use, as well as how we will integrate the data generation tool with the Carme core.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+> I have no external blockers to the work I intend to do this week.
 
 ## Notes
 
-> This is an optional section for any sort of information that does not fall under any of the other categories.
+> N/A
